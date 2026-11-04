@@ -1,0 +1,5 @@
+customer_id,name,demand_units,max_delivery_hours
+C1,Customer 1,100,48
+C2,Customer 2,120,48
+C3,Customer 3,90,72
+C4,Customer 4,110,72

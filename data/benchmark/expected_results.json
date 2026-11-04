@@ -1,0 +1,42 @@
+{
+  "benchmark_id": "benchmark-v1",
+  "currency": "INR",
+  "solver_status": "Optimal",
+  "objective_cost_inr": 22260.0,
+  "total_demand_units": 420,
+  "procurement_cost_inr": 16620.0,
+  "inbound_transport_cost_inr": 2040.0,
+  "outbound_transport_cost_inr": 2100.0,
+  "warehouse_handling_cost_inr": 1500.0,
+  "average_outbound_delivery_hours": 14.047619047619047,
+  "inbound_emissions_kg_co2e": 720.0,
+  "outbound_emissions_kg_co2e": 568.0,
+  "total_emissions_kg_co2e": 1288.0,
+  "inbound_allocation_units": {
+    "S1->W1": 180,
+    "S1->W2": 0,
+    "S2->W1": 0,
+    "S2->W2": 60,
+    "S3->W1": 0,
+    "S3->W2": 180
+  },
+  "outbound_allocation_units": {
+    "W1->C1": 100,
+    "W1->C2": 80,
+    "W1->C3": 0,
+    "W1->C4": 0,
+    "W2->C1": 0,
+    "W2->C2": 40,
+    "W2->C3": 90,
+    "W2->C4": 110
+  },
+  "supplier_utilisation": {
+    "S1": 180,
+    "S2": 60,
+    "S3": 180
+  },
+  "warehouse_throughput": {
+    "W1": 180,
+    "W2": 240
+  }
+}

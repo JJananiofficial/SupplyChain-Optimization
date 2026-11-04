@@ -1,0 +1,9 @@
+warehouse_id,customer_id,transport_cost_inr_per_unit,capacity_units,lead_time_hours,emissions_kg_co2e_per_unit
+W1,C1,4,100,10,1.2
+W1,C2,6,120,16,1.6
+W1,C3,8,100,24,2.0
+W1,C4,10,100,30,2.4
+W2,C1,7,100,18,1.8
+W2,C2,5,120,14,1.4
+W2,C3,4,100,12,1.1
+W2,C4,6,120,18,1.5

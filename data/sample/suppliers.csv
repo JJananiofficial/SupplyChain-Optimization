@@ -1,0 +1,4 @@
+supplier_id,name,capacity_units,purchase_price_inr_per_unit
+S1,Supplier 1,220,40
+S2,Supplier 2,180,43
+S3,Supplier 3,200,38

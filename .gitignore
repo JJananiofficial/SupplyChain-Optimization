@@ -1,0 +1,21 @@
+.venv/
+venv/
+.python-version
+__pycache__/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Local authentication and per-user workspace database
+data/app_users.db
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+*.db-journal
+*.pyc
+.streamlit/secrets.toml
